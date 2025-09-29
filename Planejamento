@@ -1,1 +1,35 @@
+# Plano de Testes - Automation Practice
+
+## 1. Introdução
+Este documento descreve o planejamento dos testes manuais realizados no site Automation Practice.
+
+**Objetivo:** Garantir a qualidade das principais funcionalidades de e-commerce.
+
+---
+
+## 2. Funcionalidades a serem testadas
+- Cadastro de usuários
+- Login/Logout
+- Busca de produtos
+- Adicionar produtos ao carrinho
+- Finalizar compra
+
+---
+
+## 3. Escopo
+- Testes funcionais
+- Testes de interface
+- Testes de regressão básicos
+
+---
+
+## 4. Ambiente de teste
+- **URL:** [https://www.automationpratice.com.br/](https://www.automationpratice.com.br/)
+- **Navegador:** Google Chrome (última versão)
+- **Sistema operacional:** Windows 10
+
+---
+
+## 5. Critérios de aceitação
+- Todas as funcionalidades principais devem estar funcionando sem erros críticos.
 
