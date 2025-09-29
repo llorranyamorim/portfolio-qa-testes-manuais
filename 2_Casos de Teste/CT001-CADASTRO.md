@@ -2,8 +2,9 @@
 
 **ID:** CT001  
 **Módulo:** Cadastro  
-**Prioridade:** Alta  
-**Tipo de Teste:** Funcional (Positivo) 
+**Prioridade:** Alta 
+**Tipo de Teste:** Funcional (Positivo)
+
 **Pré-condição:** Usuário e E-mail não cadastrados previamente no sistema
 
 ## Dados de Teste (Massa de Teste)
@@ -27,6 +28,7 @@
 
 ## Evidência
 ![CADASTRO DE USUÁRIO](/3_Evidências/cadastro_realizado_com_sucesso.png)
+
 
 
 
