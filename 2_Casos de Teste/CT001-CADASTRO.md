@@ -1,18 +1,25 @@
-# Caso de Teste: CT001 - Login
+# Caso de Teste: Login com sucesso
 
-**Objetivo:** Validar se o usuário consegue acessar a conta com credenciais válidas.
+**ID:** CT001  
+**Módulo:** Login  
+**Prioridade:** Alta  
+**Pré-condição:** Usuário já cadastrado
 
-| Passo | Ação | Resultado Esperado |
-|-------|------|--------------------|
-| 1 | Acessar a página de login | Página carregada com campos de usuário e senha |
-| 2 | Inserir e-mail válido | E-mail é aceito |
-| 3 | Inserir senha válida | Senha é aceita |
-| 4 | Clicar em "Entrar" | Usuário é redirecionado para a página inicial autenticado |
+## Passos
+1. Acessar o site [Automation Practice](https://www.automationpratice.com.br/)
+2. Clicar em "Login"
+3. Preencher os campos:
+   - **E-mail:** usuario@teste.com
+   - **Senha:** senha123
+4. Clicar em "Entrar"
 
-**Resultado Final:** ✅ Passou  
+## Resultado esperado
+- O sistema deve autenticar o usuário e redirecioná-lo para a página inicial com a mensagem:
+  > "Bem-vindo, Usuário!"
 
-
+## Evidência
 ![CADASTRO DE USUÁRIO](/3_Evidências/CT001.cadastro_realizado_com_sucesso.png)
+
 
 
 
