@@ -44,4 +44,4 @@
 ---
 
 ## Evidência
-![Erro - E-mail já cadastrado](/evidencias/cadastro/erro_email_existente.png)
+![Erro - E-mail já cadastrado](/3_Evidências/CT002 - CADASTRI DE USUÁRIO COM E-MAIL EXISTENTE.JPG)
