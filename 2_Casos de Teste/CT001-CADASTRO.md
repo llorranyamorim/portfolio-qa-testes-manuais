@@ -1,48 +1,35 @@
-# Caso de Teste: CADASTRO DE USUÁRIO COM DADOS VÁLIDOS
+# Caso de Teste: Cadastro de Usuário com Dados Válidos
 
-**ID:** CT001  
+**ID:** CAD-CT001  
 **Módulo:** Cadastro  
-**Prioridade:** Alta 
-**Tipo de Teste:** Funcional (Positivo)
+**Prioridade:** Alta  
+**Tipo de Teste:** Funcional (Positivo)  
+**Pré-condição:**  
+- Usuário e e-mail não cadastrados previamente no sistema.  
+- Usuário deve estar na tela de cadastro.  
 
-**Pré-condição:** Usuário e E-mail não cadastrados previamente no sistema
-
-## Dados de Teste (Massa de Teste)
+## Dados de Entrada
 | Campo | Valor |
-| :--- | :--- |
-| **Nome** | Lorrany Amorim |
-| **E-mail** | lorranyamorim@teste.com |
-| **Senha** | senha123 |
+|-------|-------|
+| Nome  | Lorrany Amorim |
+| E-mail | llorrany@teste.com |
+| Senha  | Teste@1234 |
 
 ## Passos
 1. Acessar a URL: [Automation Practice](https://www.automationpratice.com.br/)
-2. Clicar no botão **"Cadastro"**.
-3. Preencher os campos do formulário com os **Dados de Teste** acima.
-4. Clicar no botão **"Cadastrar"**.
-5. Verificar o redirecionamento e a mensagem de sucesso na tela.
+2. Navegar até a tela de **Cadastro**.
+3. Preencher o campo **Nome** com um nome válido.
+4. Preencher o campo **E-mail** com um e-mail válido.
+5. Preencher o campo **Senha** com uma senha válida.
+6. Clicar no botão **"Cadastrar"**.
+7. Verificar se o sistema redireciona para a **Página Inicial**.
+8. Validar se a mensagem de sucesso é exibida corretamente.
 
 ## Resultado Esperado
-- O usuário deve ser **redirecionado** para a **Página Inicial**.
-- O sistema deve exibir, na tela, uma mensagem de sucesso, contendo o nome fornecido no cadastro:
+- O sistema deve redirecionar para a **Página Inicial**.
+- Deve ser exibida a mensagem:
   > **"Cadastro realizado! Bem-vindo, Lorrany Amorim"**
+- Dados devem ser salvos corretamente na base de dados e associados ao novo usuário.
 
 ## Evidência
-![CADASTRO DE USUÁRIO](/3_Evidências/cadastro_realizado_com_sucesso.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Cadastro de Usuário com Sucesso](/evidencias/cadastro/sucesso.png)
