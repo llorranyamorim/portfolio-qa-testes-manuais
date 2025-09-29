@@ -11,7 +11,9 @@ Este projeto foi criado com o objetivo de mostrar na prática, meu processo de e
 - Planejamento de testes
 - Criação de casos de teste
 - Execução com evidências
-- Relatórios de resultados
+- Relatórios de 
+
+-----
 
 ## 🧱 Estrutura do repositório
 A estrutura é organizada por pastas, cada uma representando um sistema/teste diferente:
@@ -20,6 +22,8 @@ A estrutura é organizada por pastas, cada uma representando um sistema/teste di
 📁 Casos de Testes / # Casos de teste detalhados
 📁 Evidências / # Prints e vídeos dos testes executados
 📁 Relatórios / # Relatórios finais
+
+-----
 
 ## 🧪 Metodologia
 
@@ -39,7 +43,7 @@ Processos: Planejamento de Teste, Execução e Relatório
 - Checkout (finalizar compra)
 - Logout
 
-  ----
+----
   
 ## Relatório Final
 
