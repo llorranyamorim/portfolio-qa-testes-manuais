@@ -5,7 +5,7 @@ Objetivo: Garantir a qualidade das funcionalidades do site.
 
 ## 2. Funcionalidades a serem testadas
 - Cadastro
-- c
+- Login/Logout
 - Busca de produtos
 - Adicionar ao carrinho
 - Finalizar compra
