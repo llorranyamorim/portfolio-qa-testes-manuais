@@ -3,16 +3,21 @@
 **ID:** CT001  
 **Módulo:** Cadastro  
 **Prioridade:** Alta  
-**Pré-condição:** Novo Usuário 
+**Tipo de Teste:** Funcional (Positivo)
+**Pré-condição:** Usuário e E-mail não cadastrados previamente no sistema.
+
+## Dados de Teste (Massa de Teste)
+| Campo | Valor |
+| :--- | :--- |
+| **Nome** | Lorrany Amorim |
+| **E-mail** | lorranyamorim@teste.com |
+| **Senha** | senha123 |
 
 ## Passos
-1. Acessar o site [Automation Practice](https://www.automationpratice.com.br/)
-2. Clicar em "Cadastro"
-3. Preencher os campos:
-   - **Nome:** Lorrany Amorim
-   - **E-mail:** lorranyamorim@teste.com
-   - **Senha:** senha123
-4. Clicar em "Cadastrar"
+1. Acessar a URL: [Automation Practice](https://www.automationpratice.com.br/)
+2. Clicar no botão **"Cadastro"**.
+3. Preencher os campos do formulário com os **Dados de Teste** acima.
+4. Clicar no botão **"Cadastrar"**.
 5. Verificar o redirecionamento e a mensagem de sucesso na tela.
 
 ## Resultado Esperado
@@ -22,6 +27,7 @@
 
 ## Evidência
 ![CADASTRO DE USUÁRIO](/3_Evidências/cadastro_realizado_com_sucesso.png)
+
 
 
 
