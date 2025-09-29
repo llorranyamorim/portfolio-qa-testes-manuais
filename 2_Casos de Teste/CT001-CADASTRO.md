@@ -13,13 +13,16 @@
    - **E-mail:** lorranyamorim@teste.com
    - **Senha:** senha123
 4. Clicar em "Cadastrar"
+5. Verificar o redirecionamento e a mensagem de sucesso na tela.
 
-## Resultado esperado
-- O sistema deve autenticar o usuário e redirecioná-lo para a página inicial com a mensagem:
-  > "Bem-vindo, Usuário!"
+## Resultado Esperado
+- O usuário deve ser **redirecionado** para a **Página Inicial**.
+- O sistema deve exibir, na tela, uma mensagem de sucesso, contendo o nome fornecido no cadastro:
+  > **"Cadastro realizado! Bem-vindo, Lorrany Amorim"**
 
 ## Evidência
 ![CADASTRO DE USUÁRIO](/3_Evidências/cadastro_realizado_com_sucesso.png)
+
 
 
 
