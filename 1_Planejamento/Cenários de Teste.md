@@ -24,7 +24,7 @@ Cada funcionalidade contém **10 cenários**, contemplando:
 | CAD-004 | Cadastrar usuário sem preencher campos obrigatórios | ❌ Negativo | - | Mensagem destacando os campos obrigatórios não preenchidos |
 | CAD-005 | Cadastrar usuário com e-mail inválido (ex: "usuario@") | ❌ Negativo | - | Mensagem de erro solicitando e-mail válido |
 | CAD-006 | Cadastrar usuário com caracteres especiais no nome | 🔄 Alternativo | - | Cadastro realizado com sucesso aceitando caracteres como “José D’Ávila” |
-| CAD-007 | Cadastrar com CPF inválido (quando aplicável) | ❌ Negativo | - | Sistema deve recusar CPF inválido e exibir mensagem |
+| CAD-007 | Tentar cadastrar usuário preenchendo somente campo "nome", | ❌ Negativo | - | O sistema deve exibir uma mensagem de erro abaixo do campo E-mail, com o texto "O campo e-mail é obrigatório." O cadastro não deve ser realizado. |
 | CAD-008 | Cadastrar usuário maior que 18 anos | ✅ Caminho feliz | Usuário informa data de nascimento válida | Cadastro realizado com sucesso |
 | CAD-009 | Cadastrar usuário menor de 18 anos (quando não permitido) | ❌ Negativo | - | Mensagem informando que o cadastro não é permitido para menores |
 | CAD-010 | Cadastrar usuário com dados opcionais preenchidos | 🔄 Alternativo | - | Cadastro concluído com sucesso, incluindo informações opcionais |
