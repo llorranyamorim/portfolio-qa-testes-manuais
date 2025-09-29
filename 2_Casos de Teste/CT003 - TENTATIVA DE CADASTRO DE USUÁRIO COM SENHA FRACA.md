@@ -43,4 +43,4 @@
 ---
 
 ## Evidência
-![Erro - E-mail já cadastrado](/evidencias/cadastro/erro_email_existente.png)
+![Erro - senha fraca](/evidencias/cadastro/erro_email_existente.png)
