@@ -1,4 +1,4 @@
-# Cenários de Teste - E-commerce
+# Cenários de Teste - [QAZANDO E-commerce](https://www.automationpratice.com.br/)
 
 Este documento contém os cenários de teste para as seguintes funcionalidades:
 - **Cadastro**
