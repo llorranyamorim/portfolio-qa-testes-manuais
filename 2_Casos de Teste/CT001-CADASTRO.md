@@ -19,7 +19,8 @@
   > "Bem-vindo, Usuário!"
 
 ## Evidência
-![CADASTRO DE USUÁRIO](/3_Evidências/CT001.cadastro_realizado_com_sucesso.png)
+![CADASTRO DE USUÁRIO](/3_Evidências/cadastro_realizado_com_sucesso.png)
+
 
 
 
