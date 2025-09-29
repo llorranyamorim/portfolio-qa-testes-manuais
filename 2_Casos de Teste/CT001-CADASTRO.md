@@ -1,4 +1,4 @@
-# Caso de Teste: VALIDAR CADASTRO DE NOVO USUÁRIO COM DADOS VÁLIDOS
+# Caso de Teste: CADASTRO DE USUÁRIO COM DADOS VÁLIDOS
 
 **ID:** CT001  
 **Módulo:** Cadastro  
@@ -27,6 +27,7 @@
 
 ## Evidência
 ![CADASTRO DE USUÁRIO](/3_Evidências/cadastro_realizado_com_sucesso.png)
+
 
 
 
