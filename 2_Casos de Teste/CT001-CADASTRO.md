@@ -10,7 +10,9 @@
 | 4 | Clicar em "Entrar" | Usuário é redirecionado para a página inicial autenticado |
 
 **Resultado Final:** ✅ Passou  
+
 ![CADASTRO DE USUÁRIO](/3_Evidências/CT001.cadastro_realizado_com_sucesso.png)
+
 
 
 
