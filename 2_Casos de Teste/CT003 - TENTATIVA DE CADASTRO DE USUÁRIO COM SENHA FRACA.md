@@ -43,4 +43,4 @@
 ---
 
 ## Evidência
-![Erro - senha fraca](/evidencias/cadastro/erro_email_existente.png)
+![Erro - senha fraca](/3_Evidências/CT003-tentativa_de_cadastro_com_senha_fraca.JPG)
