@@ -13,7 +13,7 @@
 |-------|-------|
 | Nome  | Lorrany Amorim |
 | E-mail | llorrany@teste.com |
-| Senha  | Teste@1234 |
+| Senha  | teste12345|
 
 ## Passos
 1. Acessar a URL: [Automation Practice](https://www.automationpratice.com.br/)
