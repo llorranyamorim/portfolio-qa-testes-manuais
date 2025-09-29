@@ -3,7 +3,6 @@ Este repositório foi criado e dedicado ao meu estudo com o objetivo de demonstr
 
 Os testes foram realizados no site [Automation Practice](https://www.automationpratice.com.br/), uma aplicação simulada para treinamento de QA.
 
----
 
 ## 🎯 Objetivo
 Este projeto foi criado com o objetivo de mostrar na prática, meu processo de estudo como QA:
@@ -13,7 +12,6 @@ Este projeto foi criado com o objetivo de mostrar na prática, meu processo de e
 - Execução com evidências
 - Relatórios de 
 
------
 
 ## 🧱 Estrutura do repositório
 A estrutura é organizada por pastas, cada uma representando um sistema/teste diferente:
@@ -23,7 +21,6 @@ A estrutura é organizada por pastas, cada uma representando um sistema/teste di
 📁 Evidências / # Prints e vídeos dos testes executados
 📁 Relatórios / # Relatórios finais
 
------
 
 ## 🧪 Metodologia
 
@@ -31,8 +28,6 @@ Técnicas aplicadas: Testes Positivos, Negativos, Exploratórios, Funcionais, Te
 Ferramentas: Markdown, GitHub, Planilhas Google (auxiliar), Ferramenta de Captura
 Formato: Linguagem Simples e Direta:
 Processos: Planejamento de Teste, Execução e Relatório
-
----
 
 ## 📌 Funcionalidades testadas
 
@@ -43,7 +38,6 @@ Processos: Planejamento de Teste, Execução e Relatório
 - Checkout (finalizar compra)
 - Logout
 
-----
   
 ## Relatório Final
 
