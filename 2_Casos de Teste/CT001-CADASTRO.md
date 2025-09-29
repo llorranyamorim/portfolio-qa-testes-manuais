@@ -32,4 +32,5 @@
 - Dados devem ser salvos corretamente na base de dados e associados ao novo usuário.
 
 ## Evidência
-![Cadastro de Usuário com Sucesso](/evidencias/cadastro/sucesso.png)
+![Cadastro de Usuário com Sucesso](3_Evidências/cadastro_realizado_com_sucesso.png)
+
