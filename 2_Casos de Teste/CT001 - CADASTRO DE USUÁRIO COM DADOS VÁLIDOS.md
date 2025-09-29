@@ -33,5 +33,3 @@
 
 ## Evidência
 ![Cadastro de Usuário com Sucesso](/3_Evidências/cadastro_realizado_com_sucesso.png)
-
-
