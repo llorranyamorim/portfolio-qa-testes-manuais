@@ -26,7 +26,7 @@
 1. Acessar a URL: [Automation Practice](https://www.automationpratice.com.br/)
 2. Navegar até a tela de **Cadastro**.
 3. Sem preencher nenhum campo obrigatório, Clicar no botão **"Cadastrar"**.
-4. Validar se o sistema exibe a **mensagem de erro** corretamente.
+4. Validar se o sistema exibe as **mensagens de erro** correspondentes.
 
 ---
 
@@ -34,6 +34,8 @@
 - O sistema **não deve criar um novo cadastro**.
 - Deve ser exibida a seguinte mensagem de erro abaixo do campo "nome":
   > **"O campo nome deve ser prenchido"**
+  > **"O campo e-mail deve ser preenchido"**
+  > **"O campo senha deve ser preenchido"**
 - O usuário deve **permanecer na tela de cadastro** para tentar novamente.
 
 ---
