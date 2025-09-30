@@ -65,9 +65,9 @@ Esse comportamento compromete a segurança do sistema e viola o requisito de val
 ---
 
 ## Evidências
-![Evidência Login - Bug](/3_Evidencias/2_Login/LOGIN-003_Evidencia_Email_Nao_Cadastrado.JPG)  
+![Evidência Login - Bug](/3_Evidências/2_Login/LOGIN-003_E-mail_não_cadastrado.JPG)  
 
-> Arquivo de evidência: `3_Evidencias/2_Login/LOGIN-003_Evidencia_Email_Nao_Cadastrado.JPG`  
+> Arquivo de evidência: `3_Evidências/2_Login/LOGIN-003_E-mail_não_cadastrado.JPG`  
 
 ---
 
