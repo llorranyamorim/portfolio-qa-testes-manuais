@@ -9,7 +9,7 @@
 ## Pré-condição
 - O navegador deve estar aberto e conectado à internet.    
 - A tela de **Login** deve estar carregada corretamente e sem dados preenchidos  
-- O usuário deve já estar cadastrado no sistema com e-mail válido
+- O usuário deve já estar cadastrado no sistema com e-mail e senha válidos
 
 ---
 

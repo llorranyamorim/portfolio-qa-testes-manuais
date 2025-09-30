@@ -33,7 +33,7 @@
 ---
 
 ## Resultado Esperado
-- O sistema não deve permitir o **logar** do usuário    
+- O sistema não deve permitir o **login** do usuário    
 - O sistema deve exibir uma mensagem clara informando erro de autenticação 
 > **"(ex: Senha incorreta)"**  
  

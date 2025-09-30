@@ -10,7 +10,6 @@
 ## Pré-condição
 - Deve existir previamente um usuário cadastrado no sistema com o e-mail **llorrany@teste.com**.
 - Usuário deve estar na tela de **Cadastro**.
-- Conexão com o banco ou sistema deve estar ativa.
 
 ---
 
@@ -19,7 +18,7 @@
 |--------|---------------------|
 | Nome   | Lorrany Amorim      |
 | E-mail | llorrany@teste.com |
-| Senha  | Teste@1234          |
+| Senha  | teste12345
 
 ---
 
@@ -44,4 +43,4 @@
 ---
 
 ## Evidência
-![Erro - E-mail já cadastrado](/3_Evidências/CT002-cadastro_ccom_email_existente.jpg)
+![Erro - E-mail já cadastrado](/evidencias/cadastro/erro_email_existente.png)

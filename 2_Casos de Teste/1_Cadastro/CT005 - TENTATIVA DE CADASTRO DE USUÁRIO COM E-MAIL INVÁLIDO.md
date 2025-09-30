@@ -42,4 +42,4 @@
 ---
 
 ## Evidência
-![Erro - cadastro sem preencher campos obrigatórios](/3_Evidências/CT005.JPG)
+![cadastro sem preencher campos obrigatórios](/3_Evidências/CT005.tentativa_de_cadastro_de_usuario_com_email_invalido)

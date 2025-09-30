@@ -36,12 +36,12 @@
 
 ## Resultado Esperado
 - O sistema **não deve criar um novo cadastro**.
-- Deve ser exibida a seguinte mensagem de erro abaixo do campo **E-mail"**
+- Deve ser exibida a seguinte mensagem de erro abaixo dos campos **E-mail e Senha"**
   > **"O campo e-mail deve ser preenchido corretamente"**
-  > **O campo Senha deve ser preenchido corretamente"**
+  > **O campo senha deve ter pelo menos 6 dígitos"**
 - O usuário deve **permanecer na tela de cadastro** para tentar novamente.
 
 ---
 
 ## Evidência
-![Erro - cadastro sem preencher campos obrigatórios](/3_Evidências/CT006.JPG)
+![Erro - cadastro sem preencher campos obrigatórios](/3_Evidências/CT006.tentativa_de_cadastro_preenchendo_somente_campo_nome.JPG)
