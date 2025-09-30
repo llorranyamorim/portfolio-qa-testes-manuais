@@ -68,16 +68,11 @@ Após realizar login com credenciais válidas, o sistema exibe mensagem de boas-
 
 ---
 
-## Observações / Comentários do Testador
+## Observações 
 - Verificar se o cadastro do usuário possui campo "Nome" preenchido no perfil.  
 - Caso o campo exista e esteja preenchido, investigar a rotina que popula o texto da mensagem (possível uso de `user.email` em vez de `user.name`).  
 - Se a exibição do e-mail for uma decisão de produto, alinhar com PO/PM e ajustar o caso de teste.
 
----
 
-## Proposta de Correção (sugestão)
-- Ajustar a função que renderiza a mensagem de boas-vindas para priorizar `user.name` (quando presente), e só exibir `user.email` como fallback caso `user.name` esteja vazio ou nulo.
-
----
 
 
