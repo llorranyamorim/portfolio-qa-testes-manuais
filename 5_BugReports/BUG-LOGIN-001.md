@@ -62,9 +62,9 @@ Após realizar login com credenciais válidas, o sistema exibe mensagem de boas-
 ---
 
 ## Evidências
-![Evidência Login - Bug](/3_Evidencias/LOGIN-001_Login_realizado.JPG)
+![Evidência Login - Bug](/3_Evidências/2_Login/LOGIN-001_Login_realizado.JPG)
 
-> Arquivo de evidência: `3_Evidencias/LOGIN-001_Login_realizado.JPG`
+> Arquivo de evidência: `3_Evidências/2_Login/LOGIN-001_Login_realizado.JPG`
 
 ---
 
