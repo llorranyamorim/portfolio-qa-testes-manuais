@@ -45,4 +45,4 @@
 ---
 
 ## Evidência
-![Evidência - ENTER não executa login](/3_Evidências/2_Login/BUG-LOGIN-006_Enter_nao_funciona.JPG)
+![Evidência - ENTER não executa login](/3_Evidências/2_Login/LOGIN-006_Fazer_login_usando_o_botão_enter.JPG)
