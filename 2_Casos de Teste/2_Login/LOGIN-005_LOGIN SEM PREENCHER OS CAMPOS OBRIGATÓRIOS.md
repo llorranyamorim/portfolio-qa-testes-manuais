@@ -11,6 +11,12 @@
 - O navegador deve estar aberto e conectado à internet.  
 - O usuário deve estar na tela de login
 
+## Dados de Entrada
+| Campo  | Valor           |
+|--------|-----------------|
+| E-mail | vazio |
+| Senha  | vazio |  
+
 ---
 
 ## Passos
