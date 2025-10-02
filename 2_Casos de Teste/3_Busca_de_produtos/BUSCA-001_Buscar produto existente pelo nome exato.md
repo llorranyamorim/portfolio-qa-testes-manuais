@@ -1,36 +1,34 @@
 # Caso de Teste: Buscar produto existente pelo nome exato
 
 **ID:** BUSCA-001  
-**Módulo:** BUSCA 
-**Prioridade:** Alta 
-**Tipo de Teste:** Funcional (CAMINHO FELIZ)  
+**Módulo:** Busca  
+**Prioridade:** Alta  
+**Tipo de Teste:** Funcional (Caminho Feliz)  
 
 ---
 
 ## Pré-condições
 - O navegador deve estar aberto e conectado à internet.  
-- O usuário deve estar devidamente logado
-- O produto deve ser exibido na lista de resultados
+- O usuário deve estar logado no sistema com credenciais válidas.  
+- O produto **"CAMISETA PARA HOMENS"** deve estar previamente cadastrado no catálogo da loja.  
 
 ---
 
 ## Passos
 1. Acessar a URL: [Automation Practice](https://www.automationpratice.com.br/)  
-2. Navegar até a tela de **Login** localizado no canto superior direito da página inicial 
-3. Fazer login usando E-mail e Senha válidos
-4. Clicar na lupa no canto superior direito
-5. Digitar o nome do produto com o nome exato **CAMISETA PARA HOMENS**
-6. Clicar no botão **Procurar**
-6. Validar se o sistema redireciona o usuário para o produto existente
-7. Capturar evidência da tela
+2. Clicar em **Login** no canto superior direito da página inicial.  
+3. Fazer login usando e-mail e senha válidos.  
+4. Localizar o campo de busca (ícone da lupa).  
+5. Digitar o nome do produto exatamente como cadastrado: **"CAMISETA PARA HOMENS"**.  
+6. Clicar no botão **Procurar**.  
 
 ---
 
 ## Resultado Esperado
-- O sistema deve exibir uma mensagem de sucesso: **"Sucesso, confira os resultados"** e um **"Botão OK"**
-- O sistema deve redirecionar o usuário para o produto
+- O sistema deve exibir o produto correspondente ao nome pesquisado.  
+- O produto deve aparecer listado nos resultados da busca com suas informações (nome, preço e imagem).  
 
 ---
 
 ## Evidência
-![Erro! Assista o video](/3_Evidências/3_Busca_de_produtos/BUSCA-001-ERRO_buscar_produto_pelo_nome_existente.mp4)
+📎 [Vídeo da execução do teste](../3_Evidências/3_Busca_de_produtos/BUSCA-001-ERRO_buscar_produto_pelo_nome_existente.mp4)  
