@@ -46,5 +46,5 @@ Porém, em vez de redirecionar o usuário diretamente para a página do produto,
 ---
 
 ## Evidência
-📎 [Vídeo do erro](../3_Evidências/3_Busca_de_produtos/BUSCA-001-ERRO_buscar_produto_pelo_nome_existente.mp4)  
+📎 [Vídeo do erro](/3_Evidências/3_Busca_de_produtos/BUSCA-001-ERRO_buscar_produto_pelo_nome_existente.mp4)  
 
