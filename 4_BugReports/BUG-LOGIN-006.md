@@ -2,7 +2,7 @@
 
 **Módulo:** Login  
 **Prioridade:** Alta  
-**Severidade:** Média (afeta usabilidade, mas não impede login)  
+**Severidade:** Média (afeta usabilidade e experiência, mas não impede login)  
 **Status:** Aberto  
 **Reportado por:** Lorrany Amorim de Oliveira  
 **Data:** 01/10/2025  

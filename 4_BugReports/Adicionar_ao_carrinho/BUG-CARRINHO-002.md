@@ -1,8 +1,8 @@
-# BUG-CARRINHO-009
+# BUG-CARRINHO-002
 
 **Título:** Produto adicionado ao carrinho sem selecionar tamanho/cor obrigatórios
 
-**ID:** BUG-CARRINHO-009  
+**ID:** BUG-CARRINHO-002 
 **Módulo:** Carrinho de Compras  
 **Prioridade:** Alta  
 **Severidade:** Alta (impede a experiência correta do usuário e pode levar a erros no processamento do pedido)  

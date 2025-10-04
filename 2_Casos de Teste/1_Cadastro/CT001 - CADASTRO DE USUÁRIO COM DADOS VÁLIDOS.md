@@ -3,7 +3,8 @@
 **ID:** CAD-CT001  
 **Módulo:** Cadastro  
 **Prioridade:** Alta  
-**Tipo de Teste:** Funcional (Positivo)  
+**Tipo de Teste:** Funcional (Positivo)
+  
 **Pré-condição:**  
 - Usuário e e-mail não cadastrados previamente no sistema.  
 - Usuário deve estar na tela de cadastro.  

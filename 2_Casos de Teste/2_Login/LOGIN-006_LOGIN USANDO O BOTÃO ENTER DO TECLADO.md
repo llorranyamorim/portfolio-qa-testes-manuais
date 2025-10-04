@@ -2,7 +2,7 @@
 
 **ID:** LOGIN-006  
 **Módulo:** Login  
-**Prioridade:** Média  
+**Prioridade:** Alta 
 **Tipo de Teste:** Funcional (Alternativo)  
 
 ---
