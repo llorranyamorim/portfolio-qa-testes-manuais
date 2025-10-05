@@ -3,7 +3,7 @@
 **ID:** CAD-CT001  
 **Módulo:** Cadastro  
 **Prioridade:** Alta  
-**Tipo de Teste:** Funcional (Positivo)
+**Tipo de Teste:** Funcional (Caminho Feliz)
   
 **Pré-condição:**  
 - Usuário e e-mail não cadastrados previamente no sistema.  
